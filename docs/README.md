@@ -14,16 +14,16 @@
 - Triangle: `S = sqrt(p * (p-a) * (p-b) * (p-c))` where p is semiperimeter
 
 ## Perimeter
-<<<<<<< HEAD
+ HEAD
 - Circle: P = 2πR
 - Rectangle: P = 2a + 2b
 - Square: P = 4a
 
 # Some change for Lesson 6 practice
-=======
+
 - Circle: `P = 2πR`
 - Rectangle: `P = 2a + 2b`
 - Square: `P = 4a`
 - Triangle: `P = a + b + c`
 
->>>>>>> 94b208f (L-04: Experimental commit)
+ 94b208f (L-04: Experimental commit)
